@@ -1,0 +1,17 @@
+ZAD 1
+echo "Tekst" > plik.txt - nadpisuje
+
+ZAD 2
+echo "Tekst" >> plik.txt - nadpisuje na końcu
+
+ZAD 3
+ALT + 3 - zaznacza lub usuwa komentarze w aktualnej linii
+
+ZAD 4
+ALT + } — zwiększa wcięcie
+
+ALT + { — zmniejsza wcięcie
+
+ZAD 5
+Plik konfiguracji nano to ~/.nanorc
+Aby włączyć automatyczne zamienianie tabulatorów na spacje - set tabstospaces
